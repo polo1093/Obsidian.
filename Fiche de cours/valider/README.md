@@ -11,7 +11,7 @@
 
 </div>
 
-> Ces documents sont des notes personnelles de formation. Les procédures sensibles doivent toujours être adaptées au contexte, aux autorisations et à la documentation officielle.
+> Chaque fiche combine un complément structuré avec les **notes personnelles, exercices et captures d’écran d’origine**, conservés intégralement. Les procédures sensibles doivent toujours être adaptées au contexte, aux autorisations et à la documentation officielle.
 
 ## Parcours recommandé
 

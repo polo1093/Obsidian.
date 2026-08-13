@@ -14,7 +14,7 @@
 
 ### [Explorer les 18 fiches professionnelles →](./Fiche%20de%20cours/valider/README.md)
 
-*Une sélection réécrite pour être utile en entreprise et agréable à consulter.*
+*Une sélection enrichie pour être utile en entreprise, tout en conservant les notes personnelles et les captures d’écran du cours.*
 
 </div>
 
