@@ -2,122 +2,114 @@
 
 # DEP en soutien informatique
 
-### Notes de formation, fiches techniques et scripts
+### Portfolio de notes techniques, procédures et automatisations
 
 **Paul-Augustin Poisson — CFP Bel-Avenir**
 
 ![Windows](https://img.shields.io/badge/Windows-Administration-0078D4?style=flat-square&logo=windows11&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Automatisation-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Réseautique](https://img.shields.io/badge/Réseautique-TCP%2FIP-0A66C2?style=flat-square)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Réseau](https://img.shields.io/badge/Réseau-TCP%2FIP-00897B?style=flat-square)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Sécurité](https://img.shields.io/badge/Sécurité-SC--900-512BD4?style=flat-square&logo=microsoft&logoColor=white)
 
-Ce dépôt rassemble les connaissances techniques et les exercices réalisés pendant mon **DEP en soutien informatique**.
+### [Explorer les 18 fiches professionnelles →](./Fiche%20de%20cours/valider/README.md)
 
-<br>
-
-### [Consulter les notes de cours validées →](./Fiche%20de%20cours/valider/)
-
-*Sélection organisée et présentable dans un contexte professionnel*
+*Une sélection réécrite pour être utile en entreprise et agréable à consulter.*
 
 </div>
 
 ---
 
-## Découvrir le dépôt
+## Ce que contient ce dépôt
 
 | Section | Contenu | Accès |
 | --- | --- | --- |
-| **Notes validées** | Fiches structurées sur les systèmes, le dépannage, les réseaux, Microsoft 365, la sécurité et Azure | [Ouvrir le sommaire](./Fiche%20de%20cours/valider/README.md) |
-| **Scripts techniques** | Exercices PowerShell et Batch liés à l’administration Windows et réseau | [Parcourir les scripts](./script/) |
+| **Fiches professionnelles** | Diagnostic, Windows, réseaux, scripts, Microsoft 365, sécurité, cloud et service desk | [Ouvrir le sommaire](./Fiche%20de%20cours/valider/README.md) |
+| **Scripts techniques** | Exercices PowerShell et Batch réalisés durant la formation | [Parcourir les scripts](./script/) |
+| **Notes de formation** | Documents de travail conservés pour référence | [Parcourir les cours](./Fiche%20de%20cours/) |
 
-## Compétences abordées
+## Compétences mises en valeur
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Soutien et systèmes
+### Soutien aux utilisateurs
 
-- diagnostic méthodique d’incidents;
-- installation et configuration de Windows;
-- préparation et déploiement de postes;
-- administration de comptes utilisateurs;
-- Bureau à distance et outils d’administration;
-- consultation des journaux d’événements.
+- prise en charge et priorisation d'un billet;
+- diagnostic méthodique;
+- communication et validation;
+- soutien Outlook et Microsoft 365;
+- documentation et escalade.
 
 </td>
 <td width="50%" valign="top">
 
-### Réseaux et services
+### Postes et systèmes
 
-- TCP/IP, sous-réseaux, DNS et DHCP;
-- services réseau Windows;
-- connectivité et tests de ports;
-- administration et surveillance à distance;
-- sécurité des accès;
-- sauvegarde et suivi des performances.
+- préparation et déploiement Windows;
+- comptes, groupes et permissions;
+- matériel et stockage;
+- collecte de journaux;
+- inventaire et cycle de vie.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Automatisation
+### Réseaux et services
 
-- scripts PowerShell;
-- scripts Batch;
-- création et gestion d’utilisateurs;
-- automatisation de tâches répétitives;
-- vérification et documentation des opérations.
+- TCP/IP, DNS et DHCP;
+- partages et accès distant;
+- VLAN, VPN et pare-feu;
+- tests de ports;
+- supervision.
 
 </td>
 <td width="50%" valign="top">
 
-### Écosystème Microsoft
+### Automatisation et sécurité
 
-- Outlook et Microsoft 365;
-- identité, MFA et Zero Trust;
-- fondamentaux de la sécurité SC-900;
-- concepts du cloud et services Azure AZ-900;
-- gouvernance, coûts et responsabilité partagée.
+- PowerShell, Python et Batch;
+- contrôles avant modification;
+- MFA, Zero Trust et moindre privilège;
+- sauvegarde et restauration;
+- Azure AZ-900 et Microsoft SC-900.
 
 </td>
 </tr>
 </table>
 
-## Sélection technique
+## Commencer par ces fiches
 
-Pour une découverte rapide, voici les fiches les plus représentatives :
-
-1. [Résolution de problèmes](./Fiche%20de%20cours/valider/04%20-%20Résolution%20de%20problèmes.md)
+1. [Diagnostic et résolution de problèmes](./Fiche%20de%20cours/valider/04%20-%20Résolution%20de%20problèmes.md)
 2. [Scripts et automatisation](./Fiche%20de%20cours/valider/07%20-%20Scripts%20et%20automatisation.md)
-3. [Déploiement](./Fiche%20de%20cours/valider/19%20-%20Déploiement.md)
-4. [Réseaux 3](./Fiche%20de%20cours/valider/25%20-%20Réseaux%203.md)
-5. [Microsoft SC-900](./Fiche%20de%20cours/valider/26%20-%20Microsoft%20SC-900.md)
-6. [Microsoft Azure AZ-900](./Fiche%20de%20cours/valider/31%20-%20Microsoft%20Azure%20AZ-900.md)
+3. [Réseaux locaux](./Fiche%20de%20cours/valider/Réseaux%20locaux.md)
+4. [Déploiement de postes](./Fiche%20de%20cours/valider/19%20-%20Déploiement.md)
+5. [Service desk et gestion des billets](./Fiche%20de%20cours/valider/32%20-%20Service%20desk%20et%20gestion%20des%20billets.md)
+6. [Active Directory et Microsoft 365](./Fiche%20de%20cours/valider/33%20-%20Active%20Directory%20et%20Microsoft%20365.md)
+7. [Sécurité opérationnelle et sauvegardes](./Fiche%20de%20cours/valider/34%20-%20Sécurité%20opérationnelle%20et%20sauvegardes.md)
 
-## Exemples de scripts
+## Approche utilisée
 
-| Script | Utilité |
-| --- | --- |
-| [Création d’utilisateurs](./script/Creation_users.ps1) | Automatisation PowerShell de la création et de la configuration de comptes |
-| [Création d’utilisateurs — Réseau 2](./script/Creation_users_reseau_2.ps1) | Exercice d’administration d’utilisateurs dans un contexte réseau |
-| [Activation du Bureau à distance](./script/bureau%20a%20distance.bat) | Configuration du service RDP et des règles nécessaires |
-| [Vérification](./script/test_verif.ps1) | Contrôles automatisés dans un exercice PowerShell |
+Les fiches ne sont plus de simples collages de cours. Elles suivent un format commun :
 
-> Les scripts ont été réalisés dans un contexte d’apprentissage. Ils doivent être relus et adaptés avant toute utilisation dans un environnement de production.
+- objectif;
+- concepts essentiels;
+- procédure ou méthode;
+- commandes et exemples;
+- points de sécurité;
+- validation;
+- mise en situation professionnelle;
+- navigation entre les documents.
 
-## À propos des documents
-
-Les fiches sont des **notes personnelles de formation** conçues comme aide-mémoire. Elles présentent les notions comprises et pratiquées pendant le DEP, mais ne remplacent pas la documentation officielle de Microsoft ou des autres éditeurs.
-
-Les notes personnelles de préparation aux entretiens sont volontairement exclues de la sélection professionnelle.
+> Les scripts et commandes proviennent d'un contexte d'apprentissage. Ils doivent être relus, testés et adaptés avant toute utilisation en production.
 
 ---
 
 <div align="center">
 
-**[Accéder aux notes validées](./Fiche%20de%20cours/valider/)** · **[Voir les scripts](./script/)**
+**[Explorer les fiches](./Fiche%20de%20cours/valider/README.md)** · **[Voir les scripts](./script/)**
 
 </div>
