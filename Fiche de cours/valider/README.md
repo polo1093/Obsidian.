@@ -24,7 +24,7 @@ Comprendre le poste → Diagnostiquer → Réseauter → Automatiser
 
 | Fiche | Ce qu'elle démontre |
 | --- | --- |
-| [01 — Bureautique professionnelle](./01%20-%20Tests%20logiciels.md) | Word, Excel, Visio et contrôle qualité |
+| [01 — Bureautique professionnelle](./01%20-%20Bureautique%20professionnelle.md) | Word, Excel, Visio et contrôle qualité |
 | [02 — Systèmes informatiques](./02%20-%20Systèmes%20informatiques.md) | stockage, démarrage, comptes et autorisations |
 | [04 — Diagnostic et résolution](./04%20-%20Résolution%20de%20problèmes.md) | méthode, priorisation, validation et escalade |
 | [23 — Réparation informatique](./23%20-%20Réparation%20informatique.md) | matériel, sécurité ESD et décision réparer/remplacer |
